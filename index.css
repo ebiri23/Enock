@@ -1,4 +1,4 @@
-img {width: 1050px; height: 400px;}
+img {width: auto; height: 400px;}
 .s-points {text-align: center;}
 
 
@@ -82,9 +82,9 @@ img {width: 1050px; height: 400px;}
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a {color:rgb(138, 139, 145); }
-h1 {text-align: center;}
+h1 {text-align: center; width: auto;}
 .container {color:rgb(221, 241, 235);}
 h6 {text-align: end;}
-.down {width: 1250px; height: 100px; position: relative;}
+.down {width: auto; height: 100px; position: relative;}
 
 
