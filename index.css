@@ -1,4 +1,4 @@
-img {width: 1050px; height: 400px;}
+img {width: 100%; height: 100%;}
 .s-points {text-align: center;}
 
 
@@ -65,7 +65,7 @@ img {width: 1050px; height: 400px;}
 .carousel-accordion {
   position: relative;
   margin: auto;
-  max-width: 1050px;
+  max-width: 100%;
   
 }
 
@@ -85,6 +85,6 @@ a {color:rgb(138, 139, 145); }
 h1 {text-align: center; width: auto;}
 .container {color:rgb(221, 241, 235);}
 h6 {text-align: end;}
-.down {width: 1250px; height: 100px; position: relative;}
+.down {width: 100%; height: 50%; position: relative;}
 
 
