@@ -80,7 +80,7 @@ img {width: 100%;}
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a {color:rgb(138, 139, 145); }
-h1 {text-align: center; width: auto;}
+h1 {text-align: center; width: 100%;}
 .container {color:rgb(221, 241, 235);}
 h6 {text-align: end;}
 .down {width: 100%; position: relative;}
